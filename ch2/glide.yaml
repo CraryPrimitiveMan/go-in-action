@@ -1,0 +1,11 @@
+package: github.com/craryprimitiveman/go-in-action/ch2
+license: MIT
+owners:
+- name: guangjunsun
+  email: guangjunsun@tencent.com
+  homepage: http://blog.codehub.com.cn
+import:
+- package: gopkg.in/yaml.v2
+- package: your.domain.com/guangjunsun/hdfs
+  repo: git@your.domain.com:guangjunsun/hdfs.git
+  vcs: git

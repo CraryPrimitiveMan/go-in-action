@@ -1,0 +1,4 @@
+package: github.com/craryprimitiveman/go-in-action/ch3
+import:
+- package: github.com/BurntSushi/toml
+  version: v0.3.0
